@@ -1,7 +1,7 @@
 
 
-# These are all the apps I use, and their installers
-
+# These are all the apps I use
+Must have for Windows (imagine using Mac)
 ## List is Subject to change
 
 Unity/Unity Hub  
